@@ -1,0 +1,87 @@
+html{
+    scroll-behavior: smooth;
+}
+
+body {
+    text-align: center;
+    font-variant: small-caps;
+    background: Linear-gradient(#F48FB1 20%, #90CAF9 100%);
+    font-family: 'Sansita Swashed', cursive;
+    font-style: italic;
+}
+
+#Style {
+    margin-top: 77px;
+}
+
+img {
+    height: 300px;
+    border-radius: 50%;
+}
+
+#about {
+    font-family: monospace;
+    font-variant: none;
+    margin-bottom: 0px;
+}
+
+#name {
+    font-family: 'Courgette', cursive;
+    font-size: 25px;
+    font-weight: Bold;
+}
+
+h1 {
+    text-shadow: 0px 0px #F8BBD0;
+}
+
+p {
+    font-family: cursive;
+    font-size: 18px;
+    color: #6A1B98
+}
+
+.menu {
+    list-style: none;
+    font-family: cursive;
+    float: right;
+    position: fixed;
+    top: 10px;
+    right: 30px;
+    cursor: pointer;
+    color: black;
+    z-index: 10;
+}
+
+.links {
+    color: blue;
+    padding-left: 30px;
+    padding-right: 130px;
+    float: left;
+    background-color: lightgoldenrodyellow;
+}
+
+.links:hover {
+    background-color: aliceblue;
+}
+
+h2{
+    font-size: 20px;
+    font-style: italic;
+    font-weight: bold;
+}
+
+.styling{
+    text-decoration: none;
+}
+
+.heading{
+    color: darkcyan;
+}
+
+.line{
+    height: 4px;
+    width: 70px;
+    margin: 8px auto;
+    background-color: #000000;
+}
