@@ -85,3 +85,28 @@ h2{
     margin: 8px auto;
     background-color: #000000;
 }
+
+#imgGame{
+    transition: transform 0.2s;
+}
+
+#imgGame:hover{
+    transform: scale(0.9);
+}
+
+.inspirations{
+    transition: transform 0.2s;
+}
+
+.inspirations:hover{
+    transform: scale(0.9);
+}
+
+#insp2{
+    height: 350px;
+    width: 450px;
+}
+
+#elonMusk{
+    border-radius: 0px;
+}
